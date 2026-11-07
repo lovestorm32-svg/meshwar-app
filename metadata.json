@@ -1,0 +1,6 @@
+{
+  "name": "مشوار | Meshwar - النقل الذكي المصري والتفاوض المباشر",
+  "description": "منصة نقل ذكي مصرية متكاملة بنظام التفاوض والمزايدة العكسية بين العميل والسائق مع خرائط Google وتتبع حي ولوحة تحكم مركزية",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
